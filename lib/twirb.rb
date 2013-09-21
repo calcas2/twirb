@@ -1,9 +1,9 @@
   require "tk" 
-  require "tkextlib/tile"
-  $LOAD_PATH <<  './lib'
-  require 'keywords'
-  require 'manipulation'
-  require 'textgui'
+  #require "tkextlib/tile"
+  #$LOAD_PATH <<  './lib'
+  require 'twirb/keywords'
+  require 'twirb/manipulation'
+  require 'twirb/textgui'
   require 'twirb/version'
 
 
